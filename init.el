@@ -42,4 +42,9 @@
 (require 'modules-lsp)
 (require 'modules-python)
 
+(load-theme 'doom-Iosvkem t)
+
 (provide 'init)
+
+;;self config
+(require 'self)
